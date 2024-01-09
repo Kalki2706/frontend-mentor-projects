@@ -26,12 +26,12 @@ Desktop Design Layout
 ![Desktop Design Layout](./assets/desktop-view.png)
 
 <p align=right>Mobile Design Layout</p>
-<img align="right" height="800px" src="./assets/mobile-view.png" alt="Mobile Design Layout">
+<img align="right" width="320px" src="./assets/mobile-view.png" alt="Mobile Design Layout">
 
 ### Links
 
 - Solution URL: [view]()
-- Live Site URL: [visit]()
+- Live Site URL: [visit](https://kalki2706.github.io/frontend-mentor-projects/four-card-feature-section/index.html)
 
 ### Built with
 
